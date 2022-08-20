@@ -12,7 +12,7 @@ Martes y jueves de 09 hs a 13 hs.
 El curso empieza en la tercer semana de agosto y termina en la primer semana de octubre.
 
 ## Programa de la materia: Posgrado y Grado
-[Programa de Fundamentos de Aprendizaje Automático] (./Ficha Materias optativas - Cursos de posgrado - LGM.pdf)
+[Programa de Fundamentos de Aprendizaje Automático] (https://github.com/ML-Fundamentals/MLFundamentals/blob/main/bureau/Ficha%20Materias%20optativas%20-%20Cursos%20de%20posgrado%20-%20LGM.pdf)
 
 ## Inscripción
 
