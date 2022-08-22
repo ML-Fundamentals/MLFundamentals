@@ -1,5 +1,9 @@
 # Fundamentos de Aprendizaje Automático
 
+## Clases
+
+Por una cuestión de tamaño, vamos a dejar slides + audio de las clases  [acá](https://drive.google.com/drive/folders/1IzUI9DkVDA8sym7x_cfcYGU67WCmuGKm?usp=sharing), en el Classroom de la materia. Los pdfs los pueden encontrar en el repo  [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures).
+
 ## Cátedra
 Karina Laneri
 Laila D. Kazimierski
