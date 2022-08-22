@@ -2,9 +2,9 @@
 
 ## Clases
 
-Por una cuestión de tamaño, las slides + audio de las clases se alojarán en el [drive de la materia](https://drive.google.com/drive/folders/1IzUI9DkVDA8sym7x_cfcYGU67WCmuGKm?usp=sharing). Los pdfs los pueden encontrar en el repo  [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures). 
+Por una cuestión de tamaño, las slides de las clases que incluyen audio se alojarán en el [drive de la materia](https://drive.google.com/drive/folders/1IzUI9DkVDA8sym7x_cfcYGU67WCmuGKm?usp=sharing). Los pdfs los pueden encontrar en el repo [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures). 
 
-El contenido está destinado solamente a los alumnos del Instituto Balseiro cursando la materia y está bajo licencia GPL-3.0. Para cualquier otro uso por favor ponerse en contacto con la cátedra.
+Este contenido está destinado solamente a los alumnos del Instituto Balseiro cursando la materia y está bajo licencia GPL-3.0. Para cualquier otro uso, por favor ponerse en contacto con la cátedra.
 
 ## Cátedra
 Karina Laneri
