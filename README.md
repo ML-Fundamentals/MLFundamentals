@@ -2,7 +2,9 @@
 
 ## Clases
 
-Por una cuestión de tamaño, vamos a dejar slides + audio de las clases  [acá](https://drive.google.com/drive/folders/1IzUI9DkVDA8sym7x_cfcYGU67WCmuGKm?usp=sharing), en el Classroom de la materia. Los pdfs los pueden encontrar en el repo  [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures).
+Por una cuestión de tamaño, las slides + audio de las clases se alojarán en el [drive de la materia](https://drive.google.com/drive/folders/1IzUI9DkVDA8sym7x_cfcYGU67WCmuGKm?usp=sharing). Los pdfs los pueden encontrar en el repo  [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures). 
+
+El contenido está destinado solamente a los alumnos del Instituto Balseiro cursando la materia y está bajo licencia GPL-3.0. Para cualquier otro uso por favor ponerse en contacto con la cátedra.
 
 ## Cátedra
 Karina Laneri
@@ -54,4 +56,4 @@ La materia se aprueba mediante dos entregas prácticas tipo informe.
 - 2019 - Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow_ Concepts, Tools, and Techniques to Build Intelligent Systems
 
 ## Consultas
-Las consultas se hacen principalmente en el horario práctico de clases; también se puede consultar en la parte de __Discussions__ de la presente plataforma.
+Las consultas se hacen principalmente en el horario práctico de clases; también se puede consultar en la parte de [Discussions](https://github.com/ML-Fundamentals/MLFundamentals/discussions) de la presente plataforma.
