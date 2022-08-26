@@ -2,7 +2,7 @@
 
 ## Clases
 
-Por una cuestión de tamaño, las slides de las clases que incluyen audio se alojarán en YouTube. Los pdfs los pueden encontrar en el repo, [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures). 
+Por una cuestión de tamaño, las slides de las clases que incluyen audio se alojarán en el [Classroom](https://drive.google.com/file/d/1kN_WUp50rztrRUqbX8PU_ACrYmNQO69v/view?usp=sharing) de la materia. Los pdfs los pueden encontrar en el repo, [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures). 
 
 Este contenido está destinado solamente a los alumnos del Instituto Balseiro cursando la materia y está bajo licencia GPL-3.0. Para cualquier otro uso, por favor ponerse en contacto con la cátedra.
 
