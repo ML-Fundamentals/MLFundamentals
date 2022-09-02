@@ -1,5 +1,7 @@
 # Fundamentos de Aprendizaje Automático
 
+## Viernes 02/09: Quedan suspendidas las actividades en el IB.
+
 ## Clases
 
 Por una cuestión de tamaño, las slides de las clases que incluyen audio se alojarán en el [Classroom](https://drive.google.com/drive/u/1/folders/1IzUI9DkVDA8sym7x_cfcYGU67WCmuGKm) de la materia. Los pdfs los pueden encontrar en el repo, [acá](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/lectures). 
