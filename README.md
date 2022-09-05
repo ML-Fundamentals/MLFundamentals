@@ -1,6 +1,7 @@
 # Fundamentos de Aprendizaje Automático
 
-## Viernes 02/09: Quedan suspendidas las actividades en el IB.
+## Primer informe - Deadline 13 de septiembre
+El enunciado se encuentra en la carpeta [/reports](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/reports). Ahí van a encontrar también datos de entrenamiento/validación. Los datos de test estarán disponibles después de la fecha de entrega. 
 
 ## Clases
 
@@ -9,10 +10,10 @@ Por una cuestión de tamaño, las slides de las clases que incluyen audio se alo
 Este contenido está destinado solamente a los alumnos del Instituto Balseiro cursando la materia y está bajo licencia GPL-3.0. Para cualquier otro uso, por favor ponerse en contacto con la cátedra.
 
 ## Cátedra
-Karina Laneri
-Laila D. Kazimierski
-Martín Onetto
-Luis G. Moyano
+- Karina Laneri
+- Laila D. Kazimierski
+- Martín Onetto
+- Luis G. Moyano
 
 ## Días y horas
 Martes y jueves de 09 hs a 13 hs.
