@@ -3,7 +3,7 @@
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Primer informe - Extensión de deadline: miércoles 14 de septiembre, 23:59.
 Por diversos pedidos, ponemos un día más la fecha de entrega del primer informe. 
 
-Además, el informe se va a entregar via el (Classroom)[https://classroom.google.com/u/1/c/NTI2MTA3MDY4NDM1] de la materia, en donde pondremos la instancia en breve para que puedan subir el material. Chequeen por favor que pueden acceder bien al Classroom y en caso negativo nos avisan para resolverlo.
+Además, el informe se va a entregar via el [Classroom](https://classroom.google.com/u/1/c/NTI2MTA3MDY4NDM1) de la materia, en donde pondremos la instancia en breve para que puedan subir el material. Chequeen por favor que pueden acceder bien al Classroom y en caso negativo nos avisan para resolverlo.
 
 El enunciado se encuentra en la carpeta [/reports](https://github.com/ML-Fundamentals/MLFundamentals/tree/main/reports). Ahí van a encontrar también datos de entrenamiento/validación. Los datos de test estarán disponibles después de la fecha de entrega. 
 
